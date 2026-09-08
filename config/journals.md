@@ -10,12 +10,9 @@ Nature Communications
 Science Advances
 PLOS One
 Scientific Reports
-Current Biology
-Proceedings of the Royal Society B: Biological Sciences
 One Earth
 PeerJ
 eLife
-Cell
 iScience
 Nature Ecology & Evolution
 Nature Climate Change
@@ -31,14 +28,10 @@ Trends in Ecology & Evolution
 Annual Review of Ecology, Evolution, and Systematics
 Annual Review of Environment and Resources
 Annual Review of Earth and Planetary Sciences
-Biological Reviews
 Nature Reviews Earth & Environment
 Ecology Letters
-Global Change Biology
 Conservation Letters
 Journal of Applied Ecology
-Conservation Biology
-Biological Conservation
 Ecological Applications
 Methods in Ecology and Evolution
 Ecology
@@ -68,11 +61,8 @@ Biotropica
 Conservation Science and Practice
 Ecological Monographs
 Ecological Indicators
-Marine Ecology Progress Series
-Freshwater Biology
 Forest Ecology and Management
 Wildlife Research
-Wildlife Society Bulletin
 The Journal of Wildlife Management
 Oryx
 Biogeochemistry
@@ -116,3 +106,27 @@ Geoscientific Model Development
 Big Earth Data
 Bioacoustics
 National Bureau of Economic Research
+Groundwater
+Hydrogeology Journal
+Journal of Hydrology
+Hydrological Processes
+Water Resources Research
+Hydrology and Earth System Sciences
+Journal of Contaminant Hydrology
+Groundwater Monitoring & Remediation
+Water
+Hydrogeology and Water Resources
+Vadose Zone Journal
+Environmental Earth Sciences
+Journal of Hydrologic Engineering
+Reviews of Geophysics
+WIREs Water
+Advances in Water Resources
+Environmental Modelling & Software
+Science of the Total Environment
+Applied Geochemistry
+Ecohydrology
+Agricultural Water Management
+Hydrological Sciences Journal
+Sustainable Water Resources Management
+
