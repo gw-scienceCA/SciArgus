@@ -1,9 +1,6 @@
 #Machine Learning and AI
 Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
 
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
-
 #Conservation Science
 Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
 
