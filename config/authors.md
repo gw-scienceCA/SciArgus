@@ -8,7 +8,7 @@ Kelly Easterday
 Greg Golet
 Walter Heady
 Kirk Klausmeyer
-Nicholas Murphy
+Nicholas P. Murphy
 Mark D. Reynolds
 Nathaniel Rindlaub
 Sarah Skikne
@@ -48,3 +48,7 @@ Ty Ferre
 Derek Eamus
 Grant Hose
 Michael Roderick
+John Stella
+Christine Albano
+Jay Famiglietti
+Justin Huntington
